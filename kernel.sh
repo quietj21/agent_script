@@ -10,3 +10,6 @@ lsblk
 uname -r
 iostat
 free -m
+cat /proc/meminfo
+cat /proc/cpuinfo
+lsb_release -a
